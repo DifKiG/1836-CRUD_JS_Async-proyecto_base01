@@ -1,8 +1,31 @@
 comunicacion asincrona
 
 °Hacer requisiciones utilizando xmlhttprequest.
+
 °Lidias con las promises.
-°Hacer una requisición http utilizando xmlhttprequest para buscar todos los clientes del servidor.
+
+°Hacer una requisición http utilizando xmlhttprequest para 
+buscar todos los clientes del servidor.
+
 °Refactorizar el código utilizando promises mejorando su lectura.
+
 °Utilizar template literals para crear un template html.
 _________________________________________
+fetch api
+
+°Entender el orden de ejecución del código JavaScript.
+
+°Jalar los datos del servidor utilizando la función fetch 
+api al invés de xmlhttprequest para modernizar el código.
+
+°Refactorizar las responsabilidades del código pensando en la manutención de la aplicación en el futuro.
+____________________________________________
+Crear y borrar clientes
+
+°Usar el método closest para encontrar el elemento del DOM más próximo al cual queremos remover.
+
+°Crear un cliente utilizando el verbo http POST.
+
+°Remover un elemento del dom con el método remove().
+
+°Borrar un cliente utilizando el verbo http DELETE.
